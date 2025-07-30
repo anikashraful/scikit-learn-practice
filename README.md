@@ -10,8 +10,11 @@ This repository is for practicing machine learning using Scikit-learn in Python.
 **Structure**
 
   --/notebooks/: Jupyter Notebooks for ML models (e.g., titanic_classification.ipynb).
+  
   --/scripts/: Python scripts for reusable ML functions.
+ 
   --/data/: Datasets (not tracked; store locally or link to sources).
+  
   --/images/: Visualizations of model results.
 
 
